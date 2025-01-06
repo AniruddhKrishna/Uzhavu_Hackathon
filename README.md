@@ -1,1 +1,1 @@
-# Uzhavy_Hackathon
+# Uzhavu_Hackathon
